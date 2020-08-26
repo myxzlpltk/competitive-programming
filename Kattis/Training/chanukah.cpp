@@ -3,7 +3,7 @@
 using namespace std;
 
 int menorah(int n){
-	return ((n/2)*((2*1)+(n-1)*1))+n;
+	return (n*(n+1)/2)+n;
 }
 
 int main(){
