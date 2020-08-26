@@ -1,0 +1,6 @@
+[submodule "Compfest/Inspirations/comtran/compfest"]
+	path = Compfest/Inspirations/comtran/compfest
+	url = https://github.com/comtran/compfest.git
+[submodule "Compfest/Inspirations/ClasherGeek77/Coder-Class-CPC-2020"]
+	path = Compfest/Inspirations/ClasherGeek77/Coder-Class-CPC-2020
+	url = https://github.com/ClasherGeek77/Coder-Class-CPC-2020.git
