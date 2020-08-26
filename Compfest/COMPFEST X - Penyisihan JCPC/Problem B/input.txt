@@ -1,0 +1,4 @@
+5 3
+adi doan 6
+ahmad budi 10
+dede dedek 3
